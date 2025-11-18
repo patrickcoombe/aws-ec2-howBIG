@@ -11,7 +11,7 @@ this script will look in every active region, and search for all instances regar
 Here is some sample output:
 
 
-```bash
+```
 patrick $ ./d.sh
 Scanning ALL regions for instances and calculating disk sizes...
 This might take 10-20 seconds...
