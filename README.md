@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="unnamed" src="https://github.com/user-attachments/assets/a19d629a-e45a-4a87-b3d7-2b5af4cb3777" />
+<img width="512" height="512" alt="image by Patrick Coombe" src="https://github.com/user-attachments/assets/a19d629a-e45a-4a87-b3d7-2b5af4cb3777" />
 
 
 # Show How Large My AWS EC2 Server Disks Are
