@@ -1,3 +1,6 @@
+![image by Patrick Coombe](https://i.imgur.com/380Qq0q.png)
+
+
 # Show How Large My AWS EC2 Server Disks Are
 
 A quick script to run inside AWS CLI  / AWS web shell to list all EC2 instances and see how large your disks are in total.
